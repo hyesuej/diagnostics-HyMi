@@ -19,6 +19,7 @@ MY_DIR = op.dirname(__file__)
 # Hint: sys.path
 # Hint: see the solutions if you are stuck.
 # +++your code here+++
+sys.path.append('/Users/hyesue/Research/nipraxis/week5/collab/diagnostics-HyMi/findoutlie')
 
 import numpy as np
 
